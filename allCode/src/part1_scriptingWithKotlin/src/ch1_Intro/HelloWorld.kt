@@ -1,3 +1,5 @@
+package ch1_Intro
+
 class HelloWorld {
 }
 
